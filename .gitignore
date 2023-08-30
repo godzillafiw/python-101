@@ -1,3 +1,4 @@
 ENV
 .ipynb_checkpoints
 __pychache__
+*.pyc
